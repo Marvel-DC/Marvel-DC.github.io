@@ -308,7 +308,7 @@ body {
   z-index: 6;
   width: 33.3333333333%;
   height: 39px;
-  margin: -39px 0 0 33.33203%;
+  margin: -39px 0 0 33.33203125%;
   font-size: 1.25em;
 }
 
@@ -324,6 +324,6 @@ body {
   z-index: 5;
   width: 33.3333333333%;
   height: 39px;
-  margin: -39px 0 0 66.66797%;
+  margin: -39px 0 0 66.66796875%;
   font-size: 1.25em;
 }
